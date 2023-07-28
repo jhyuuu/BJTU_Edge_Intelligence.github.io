@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "BJTU-Edge-Intelligence-Lab"
+title                    : "BJTU_Edge_Intelligence_Lab"
 title_separator          : "-"
 name                     : &name "PHD_Yu_Jinhui"
 description              : &description "Research institute in Beijing Jiaotong University"
