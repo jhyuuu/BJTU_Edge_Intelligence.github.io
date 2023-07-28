@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Yu Jinhui"
-  avatar           : "yujinhui.png"
+  avatar           : "profile.png" # "yujinhui.png"
   bio              : "bjtu phd for edge intelligence"
   location         : "Beijing"
   employer         :
