@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "BJTU_Edge_Intelligence_Lab"
 title_separator          : "-"
-name                     : &name "PHD. Yu Jinhui"
+name                     : &name "PHD.Yu Jinhui"
 description              : &description "Research institute in Beijing Jiaotong University"
 url                      : https://bjtuedgeintelligence.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
